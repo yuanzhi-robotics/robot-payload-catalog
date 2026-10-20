@@ -1,0 +1,36 @@
+id,category,brand,model,weight_kg,rated_payload_kg,length_mm,width_mm,height_mm,summary,native_sensors
+b2,quadruped,Unitree,B2,60,40,1098,450,645,"Industrial heavy-payload quadruped, IP67, 4–6 h runtime",Built-in 3D LiDAR · Front and rear depth cameras
+b2w,quadruped,Unitree,B2-W,85,40,1098,550,758,"B2 wheeled-leg edition: fast on wheels over flat ground, walks over rough terrain",Built-in 3D LiDAR · Front and rear depth cameras
+go2,quadruped,Unitree,Go2 EDU,15,8,700,310,400,The go-to entry quadruped for research and industry,Head-mounted 4D LiDAR L1
+go2w,quadruped,Unitree,Go2-W,18,8,700,430,500,"Go2 wheeled-leg edition, faster campus patrols",4D LiDAR L1
+a2,quadruped,Unitree,A2,37,25,820,440,570,"New-gen mid-size industrial quadruped, front and rear LiDAR",Front and rear LiDAR · HD cameras
+as2,quadruped,Unitree,AS2,,,700,380,500,Unitree's new lightweight enterprise quadruped,
+b1,quadruped,Unitree,B1,50,20,1126,467,636,"Unitree's previous-gen industrial quadruped, IP68",
+go1,quadruped,Unitree,Go1,12,3,645,280,400,Previous-gen consumer quadruped,5 stereo fisheye pairs · ultrasonic
+a1,quadruped,Unitree,A1,12,5,500,300,400,Classic compact research quadruped,
+spot,quadruped,Boston Dynamics,Spot,32.7,14,1100,500,610,"Industry benchmark quadruped, dual M5 T-slot rails on the back",5 stereo cameras
+anymal_c,quadruped,ANYbotics,ANYmal C,50,10,930,530,890,Explosion-proof inspection quadruped for offshore platforms and chemical plants,VLP-16 LiDAR · 4 depth cameras
+anymal_d,quadruped,ANYbotics,ANYmal D,50,10,930,530,890,"New-gen industrial inspection quadruped, IP67",16-channel LiDAR · 6 depth cameras
+x30,quadruped,DEEP Robotics,X30,56,20,1000,470,585,"Workhorse for power-line and tunnel inspection, IP67",Front and rear LiDAR · depth and wide-angle cameras
+lite3,quadruped,DEEP Robotics,Lite3,12.9,4,610,370,450,Lightweight research & education quadruped,
+m20,quadruped,DEEP Robotics,M20,33,15,820,430,570,"Wheel-leg hybrid, handles stairs and off-road",Front and rear 96-channel LiDAR
+husky,ugv,Clearpath,Husky A200,50,75,990,670,390,The classic outdoor research UGV platform,
+m400,drone,DJI,Matrice 400,9.74,6,980,1020,470,"59-min flight time, enterprise flagship with 6 kg payload",Built-in RTK · obstacle-avoidance radar
+m350,drone,DJI,Matrice 350 RTK,6.47,2.7,810,670,430,"55-min flight time, IP55, the classic enterprise flagship",Built-in RTK · Six-way obstacle sensing
+m300,drone,DJI,Matrice 300 RTK,6.3,2.7,810,670,430,"Previous-gen industrial flagship, triple gimbal mount",Built-in RTK · Six-way obstacle sensing
+m30,drone,DJI,Matrice 30T,3.77,0.3,470,585,215,Portable all-in-one enterprise drone: wide + zoom + thermal + laser rangefinder,Integrated four-sensor gimbal
+m4t,drone,DJI,Matrice 4T,1.22,0.2,307,388,150,"Lightweight enterprise drone, top E-Port expansion",Wide · mid-tele · thermal · laser rangefinder
+m4td,drone,DJI,Matrice 4TD,1.85,,378,416,213,"DJI Dock 3 companion drone, IP55, 54 min flight time",Wide · Medium tele · Telephoto · Thermal · Laser rangefinder
+m3e,drone,DJI,Mavic 3 Enterprise,0.92,0.13,348,283,108,"Entry mapping drone, mechanical shutter 4/3 CMOS",Wide-angle + telephoto cameras
+jackal,ugv,Clearpath,Jackal,17,20,508,430,250,"Compact outdoor research chassis, IP62",
+warthog,ugv,Clearpath,Warthog,280,272,1520,1380,830,"Large amphibious off-road platform, tracks optional",
+ridgeback,ugv,Clearpath,Ridgeback,135,100,960,793,296,"Indoor omnidirectional mecanum platform, often paired with an arm",
+dingo,ugv,Clearpath,Dingo-D,13,20,681,513,168,Compact indoor differential chassis,
+scout_mini,ugv,AgileX,Scout Mini,23,10,612,580,245,"Small high-speed 4WD chassis, mecanum optional",
+hunter2,ugv,AgileX,Hunter 2.0,65,150,980,745,380,"Ackermann steering, campus logistics and patrol",
+hunter_se,ugv,AgileX,Hunter SE,42,50,820,640,310,"Lightweight Ackermann chassis, up to 4.8 m/s",
+bunker,ugv,AgileX,Bunker,145,70,1023,778,400,"Tracked all-terrain chassis, IP67",
+bunker_pro,ugv,AgileX,Bunker Pro,150,120,1064,845,473,"Heavy-duty tracked chassis, 30° climbing",
+bunker_mini,ugv,AgileX,Bunker Mini,54.8,35,660,584,281,Compact tracked chassis for tight spaces,
+tracer,ugv,AgileX,Tracer,30,100,685,570,155,"Low-profile indoor differential chassis, logistics AGV",
+tracer2,ugv,AgileX,Tracer 2.0,54,150,702,610,169,New indoor heavy-duty chassis,

@@ -1,0 +1,199 @@
+id,type,brand,model,weight_g,power_w,size_w_mm,size_l_mm,size_h_mm,notes,key_specs,source_url,data_quality
+livox-mid360,lidar,Livox,Mid-360,265.0,6.5,65,65,60,3D hybrid solid-state 360°,360°×59°(-7°~52°) / 70 m,https://www.livoxtech.com/mid-360/specs,official
+livox-mid360s,lidar,Livox,Mid-360S,265.0,6.5,65,65,60,3D hybrid solid-state 360°,360°×59°(-7°~52°) / 100 m,https://www.livoxtech.com/mid-360s/specs,official
+livox-mid70,lidar,Livox,Mid-70,580.0,8.0,97,64,62.7,"3D hybrid solid-state, forward",70.4° circular / 260 m,https://www.livoxtech.com/mid-70/specs,official
+livox-avia,lidar,Livox,Avia,498.0,9.0,91,61.2,64.8,"3D hybrid solid-state, forward",70.4°×77.2° (non-repetitive) / 450 m,https://www.livoxtech.com/avia/specs,official
+livox-hap,lidar,Livox,HAP (TX/T1),1120.0,12.0,105,131.6,65,"Automotive-grade semi-solid-state, forward",120°×25° / 150 m,https://www.livoxtech.com/hap/specs,official
+hesai-xt16,lidar,Hesai,PandarXT16,800.0,9.0,,,76,Mechanical spinning 16-channel,360°×30° / 120 m,https://www.hesaitech.com/product/xt16-32-32m/,reseller_listing_of_official
+hesai-xt32,lidar,Hesai,PandarXT32,800.0,9.0,,,76,Mechanical spinning 32-channel,360°×31°(-16°~15°) / 120 m,https://lidarseek.com/product/hesai-xt32,reseller_listing_of_official
+hesai-xt32m2x,lidar,Hesai,XT32M2X,490.0,10.0,,,75,Mechanical spinning 32-channel (lightweight),360°×40.3°,https://www.hesaitech.com/wp-content/uploads/2025/04/XT32M2X_User_Manual_X03-en-250310.pdf,official
+hesai-jt16,lidar,Hesai,JT16,200.0,4.3,,,64,Mini mechanical 16-channel (with IMU),360°×40°(0~40°) / 100 m,https://www.ghostysky.com/product/hesai-jt16/,reseller
+hesai-jt128,lidar,Hesai,JT128,250.0,,,,73.8,Super-hemispherical 128-channel,360°×189° / 60 m,https://www.ghostysky.com/product/hesai-jt128/,reseller
+hesai-qt128,lidar,Hesai,PandarQT128,700.0,12.0,,,83.9,Ultra-wide short-range blind-spot fill,360°×105.2° / 50 m,https://www.hesaitech.com/product/qt128/,official
+hesai-at128,lidar,Hesai,AT128,940.0,13.5,136,114,49,"Automotive-grade semi-solid-state, long range",120°×25.4° / 200 m,https://www.hesaitech.com/product/at128/,official
+rs-airy,lidar,RoboSense,Airy,240.0,8.0,,,63,Hemispherical digital 96/192-channel,360°×90° / 60 m,https://www.robosense.ai/en/rslidar/Airy,official
+rs-e1r,lidar,RoboSense,E1R,330.0,10.0,95,43,69.5,Pure solid-state flash,120°×90° / 75 m,https://www.robosense.ai/en/rslidar/E1R,reseller_listing_of_official
+rs-helios16,lidar,RoboSense,Helios-16P,900.0,11.0,,,100,Mechanical spinning 16-channel,360°×30° / 150 m,https://www.roscomponents.com/product/rs-helios-16p/,reseller
+rs-helios32,lidar,RoboSense,Helios-32 (1610),1000.0,12.0,,,100,Mechanical spinning 32-channel,"360°×26°(-16°~10°), 70° version also available / 150 m",https://www.roscomponents.com/product/rs-helios/,reseller
+rs-bpearl,lidar,RoboSense,RS-Bpearl,920.0,,,,100,Hemispherical near-field 32-channel,360°×90° / 30 m,https://www.roscomponents.com/product/rs-bpearl/,reseller
+rs-lidar16,lidar,RoboSense,RS-LiDAR-16,870.0,,,,80.7,Mechanical spinning 16-channel (legacy),360°×30° / 150 m,https://www.manualslib.com/manual/1928861/Robosense-Rs-Lidar-16.html,reseller
+ouster-os0,lidar,Ouster,OS0 (Rev7),430.0,20.0,,,58.35,Digital ultra-wide,360°×90° / 35 m,https://data.ouster.io/downloads/datasheets/datasheet-rev7-v3p1-os0.pdf,official
+ouster-os1,lidar,Ouster,OS1 (Rev7),377.0,20.0,,,58.35,Digital mid-range,360°×45° / 250 m,https://data.ouster.io/downloads/datasheets/datasheet-revd-v2p0-os1.pdf,official
+ouster-os2,lidar,Ouster,OS2,930.0,24.0,,,98.9,Digital long-range,360°×22.5°,https://data.ouster.io/downloads/datasheets/datasheet-revd-v2p0-os2.pdf,official
+ouster-osdome,lidar,Ouster,OSDome,470.0,20.0,,,85.27,Hemispherical 180°,360°×180° / 20 m,https://data.ouster.io/downloads/datasheets/datasheet-rev7p1-osdome.pdf,official
+velodyne-vlp16,lidar,Velodyne,VLP-16 Puck,830.0,8.0,,,72,Mechanical spinning 16-channel,360°×30° / 100 m,https://ouster.com/products/hardware/vlp-16,official
+velodyne-puck-lite,lidar,Velodyne,Puck LITE,590.0,8.0,,,72,"Mechanical spinning 16-channel, lightweight",360°×30° / 100 m,https://www.mapix.com/wp-content/uploads/2018/07/63-9286_Rev-H_Puck-LITE_Datasheet_Web.pdf,official
+velodyne-puck-hires,lidar,Velodyne,Puck Hi-Res,750.0,8.0,,,72,"Mechanical spinning 16-channel, high resolution",360°×20° / 100 m,https://www.mapix.com/lidar-scanner-sensors/velodyne/velodyne-puck-vlp16-hires/,official
+unitree-l1,lidar,Unitree,L1 PM/RM,230.0,6.0,75,75,65,Low-cost 4D hemispherical,360°×90° / 20 m,https://www.unitree.com/LiDAR,official
+unitree-l2,lidar,Unitree,L2,230.0,10.0,75,75,65,Low-cost 4D hemispherical,360°×96° / 30 m,https://www.unitree.com/L2,official
+leishen-c16,lidar,LeiShen,C16,1040.0,,,,77.9,Mechanical spinning 16-channel,360°×30°(-16°~14°) / 150 m,https://www.leishen-lidar.com/cx/103,official
+leishen-c32,lidar,LeiShen,C32,1040.0,,,,77.9,Mechanical spinning 32-channel,360°×31°(-16°~15°) / 150 m,https://www.leishen-lidar.com/cx/102,official
+benewake-tfminiplus,radar,Benewake,TFmini Plus,12.0,0.55,35,18.5,21,Single-point ToF,12 m,https://en.benewake.com/TFminiPlus/index.html,official
+benewake-tfluna,radar,Benewake,TF-Luna,5.0,,35,21.25,13.5,Single-point ToF,,https://en.benewake.com/TFLuna/index.html,official
+benewake-tf03,radar,Benewake,TF03,86.0,1.0,44,43,32,"Single-point ToF, long range",180 m,https://en.benewake.com/TF03/index.html,official
+rs-d405,depth_camera,Intel RealSense,D405,60.0,1.55,42,23,42,"Active stereo, short range",87°×58° / 0.5 m,https://www.realsenseai.com/products/stereo-depth-camera-d405/,official
+rs-d435i,depth_camera,Intel RealSense,D435i,75.0,2.5,90,25,25,Active stereo + IMU,87°×58° / 3 m,https://www.realsenseai.com/products/depth-camera-d435i/,official
+rs-d455,depth_camera,Intel RealSense,D455,,,124,26,29,"Active stereo, long baseline",87°×58° / 6 m,https://www.realsenseai.com/products/real-sense-depth-camera-d455f/,official
+rs-d457,depth_camera,Intel RealSense,D457,,,124,26,36,Stereo GMSL IP65,87°×58° / 6 m,https://www.realsenseai.com/products/depth-camera-d457/,official
+rs-d555,depth_camera,Intel RealSense,D555 PoE,,5.5,,,,Stereo PoE IP65,,unknown,distributor_list
+orbbec-gemini2,depth_camera,Orbbec,Gemini 2,98.0,2.5,90,30,25,Active stereo,91°×66° / 10 m,https://www.orbbec.com/products/stereo-vision-camera/gemini-2/,official
+orbbec-gemini335,depth_camera,Orbbec,Gemini 335,97.0,3.0,90,30,25,Active/passive stereo,90°×65° / 20 m,https://www.orbbec.com/products/stereo-vision-camera/gemini-335/,official
+orbbec-gemini335l,depth_camera,Orbbec,Gemini 335L,133.0,3.0,124,27,29,"Stereo, long baseline, IP65",90°×65° / 20 m,https://www.orbbec.com/products/stereo-vision-camera/gemini-335l/,official
+orbbec-gemini335lg,depth_camera,Orbbec,Gemini 335Lg,164.0,,,,,Stereo GMSL2,90°×65°,unknown,distributor_list
+orbbec-gemini336,depth_camera,Orbbec,Gemini 336,99.0,3.0,90,30.7,25,Stereo with IR filter,90°×65° / 20 m,https://www.orbbec.com/products/stereo-vision-camera/gemini-336/,official
+orbbec-gemini336l,depth_camera,Orbbec,Gemini 336L,135.0,3.0,,,,"Stereo, long baseline, IP65",90°×65°,unknown,distributor_list
+orbbec-femto-bolt,depth_camera,Orbbec,Femto Bolt,335.0,4.35,,,,ToF,,unknown,distributor_list
+zed-2i,depth_camera,Stereolabs,ZED 2i,230.0,1.9,175.25,30.25,43.1,Passive stereo AI,110°×70°(2.1mm) / 20 m,https://www.stereolabs.com/products/zed-2,official
+zed-x,depth_camera,Stereolabs,ZED X,239.0,1.46,163.4,31.8,36.7,Passive stereo GMSL2 IP67,110°×80° (wide)/73°×45° (narrow) / 20 m,https://docs.stereolabs.com/docs/products/cameras/zedx/specifications,official
+zed-x-mini,depth_camera,Stereolabs,ZED X Mini,151.0,1.46,93.6,31.8,36.7,"Passive stereo GMSL2, short baseline",110°×80°(2.2mm) / 8 m,https://docs.stereolabs.com/docs/products/cameras/zedx/specifications,official
+percipio-fm851,depth_camera,Percipio,FM851-E2,410.0,5.2,124,28.6,86.8,Structured-light industrial 3D,,https://www.percipio.xyz/product_fm851-e2/,official
+luxonis-oakd-s2,depth_camera,Luxonis,OAK-D S2,91.0,5.0,,,,Stereo + onboard AI,,unknown,distributor_list
+dji-h30t,gimbal_pod,DJI,Zenmuse H30T,920.0,28.0,145,170,165,Drone 5-in-1 pod,3000 m,https://enterprise.dji.com/zenmuse-h30-series/specs,official
+dji-h20t,gimbal_pod,DJI,Zenmuse H20T,828.0,,135,167,161,Drone 4-in-1 pod,1200 m,https://enterprise.dji.com/zenmuse-h20-series/specs,official
+dji-l2,gimbal_pod,DJI,Zenmuse L2,905.0,28.0,128,155,176,Airborne LiDAR pod,70°×75° (non-repetitive)/70°×3° (repetitive) / 450 m,https://enterprise.dji.com/zenmuse-l2/specs,official
+dji-p1,gimbal_pod,DJI,Zenmuse P1,800.0,20.0,166,198,129,Full-frame mapping camera,,https://enterprise.dji.com/zenmuse-p1/specs,official
+hik-hm-td5737t,gimbal_pod,Hikvision,HM-TD5737T-4/W,2000.0,20.0,134.2,272.6,133.7,Robot dual-spectrum micro gimbal,,http://m.dav01.com/product/2025/06/p365990.html,reseller_listing_of_official
+hik-ds2td5566t,gimbal_pod,Hikvision,DS-2TD5566T-15/V2,4500.0,18.0,,,,Thermometric dual-spectrum MINI gimbal,thermal 640×512; visible 1080P,https://www.asmag.com.cn/test/202012/70858.html,reseller
+dahua-tpc-pt8x20,gimbal_pod,Dahua,DH-TPC-PT8X20,18000.0,70.0,252,360,464,Heavy-duty thermal dual-sensor gimbal,,https://www.asmag.com.cn/test/201706/70415.html,reseller
+flir-boson640,thermal_core,Teledyne FLIR,Boson 640,7.5,0.5,21,11,21,Uncooled thermal core,,https://f.hubspotusercontent10.net/hubfs/20335613/flir-boson-datasheet.pdf,official
+flir-lepton35,thermal_core,Teledyne FLIR,Lepton 3.5,0.9,0.14,11.8,7.14,12.7,Micro thermometry module,,https://groupgets-files.s3.amazonaws.com/lepton/Lepton%20Engineering%20Datasheet%20Rev%20400%20(500-0659-00-09).pdf,official
+raytron-tiny1c,thermal_core,InfiRay,Tiny1-C,3.9,0.24,13,8,13,Micro thermal imaging module,256×192/160×120,https://raytronmicro.com/wp-content/uploads/2024/08/2024.08.29Tiny1-C%E7%B3%BB%E5%88%97.pdf,official
+guide-timo256,thermal_core,GST,TIMO256,2.2,0.085,15,6.95,13,Micro thermal imaging module,"256×192, 56°",https://www.gst-ir.com/products-ir-module/timo/TIMO256.html,official
+guide-plug417,thermal_core,GST,PLUG417,85.0,2.0,44.5,36.6,44.5,Uncooled standard core,384×288,https://www.gst-ir.com/products-ir-module/plug/PLUG417.html,official
+insta360-x4,360_camera,Insta360,X4,203.0,,46,37.6,123.6,Panoramic camera,360° panoramic,https://www.insta360.com/product/insta360-x4/,official
+insta360-pro2,360_camera,Insta360,Pro 2,1550.0,60.0,,,160,Pro panoramic (6 lenses),360° panoramic,https://www.insta360.com/product/insta360-pro2,official
+ricoh-theta-x,360_camera,Ricoh,THETA X,170.0,,51.7,29,136.2,Panoramic camera,360° panoramic,https://support.ricoh360.com/manual/x-add-info-01,official
+ricoh-theta-z1,360_camera,Ricoh,THETA Z1,182.0,,48,29.7,132.5,Panoramic camera (1-inch),360° panoramic,https://support.ricoh360.com/manual/z1-add-info-01,official
+unicore-um982,rtk_receiver,Unicore,UM982,1.82,0.6,21,16,2.6,Dual-antenna heading RTK module,,https://www.terrisgps.com/wp-content/uploads/2022/09/unicore-um982-datasheet.pdf,official
+unicore-um980,rtk_receiver,Unicore,UM980,1.88,0.48,22,17,2.6,RTK module,,https://www.terrisgps.com/wp-content/uploads/2022/09/unicore-um980-datasheet.pdf,official
+sinognss-k823,rtk_receiver,ComNav,K823,,1.6,40,30,3.2,Positioning & heading board (with IMU),,https://www.sinognss.com/product/module/k823.html,official
+ublox-zed-f9p,rtk_receiver,u-blox,ZED-F9P,1.8,0.2,22,17,2.4,RTK module,,https://content.u-blox.com/sites/default/files/ZED-F9P_ProductSummary_UBX-17005151.pdf,official
+novatel-pwrpak7d,rtk_receiver,NovAtel,PwrPak7D,500.0,,147,125,55,Dual-antenna GNSS receiver,,https://docs.novatel.com/OEM7/Content/Technical_Specs_Receiver/PwrPak7_Specifications.htm,official
+novatel-oem7720,rtk_receiver,NovAtel,OEM7720,29.0,,71,46,7.5,Dual-antenna OEM board,,https://docs.novatel.com/OEM7/Content/Technical_Specs_Receiver/OEM7720_Specifications.htm,official
+harxon-hx-chx600a,gnss_antenna,Harxon,HX-CHX600A,45.0,,,,82.6,Helical antenna (full-band) · mounted in pairs,,https://en.harxon.com/product/detail/d-helix-antenna-hx-chx600a.html,official
+harxon-hx-ch7609a,gnss_antenna,Harxon,HX-CH7609A,30.5,,,,40.8,Helical antenna (compact) · mounted in pairs,,https://terrisgps.com/product/harxon-hx-ch7609a/,reseller
+harxon-hx-csx601a,gnss_antenna,Harxon,HX-CSX601A,500.0,,,,62.6,Survey-grade antenna · mounted in pairs,,https://en.harxon.com/product/detail/survey-gnss-antenna-hx-csx601a.html,official
+skylab-ska06a5040,gnss_antenna,SKYLAB,SKA06A5040,,,,,124,Mushroom dual-band antenna · mounted in pairs,,https://www.skylab.com.cn/productview-2896.html,official_partial
+hongxin-l1l2l5-aero,gnss_antenna,Hongxin Technology,L1/L2/L5 aviation antenna,220.0,,,,27,Aviation-grade high-precision antenna · mounted in pairs,,https://www.hxgnss.com/product-detail-194.html,reseller
+xsens-mti630,imu_ins,Xsens(Movella),MTi-630,8.9,0.5,31.5,28,13,AHRS,,https://www.xsens.com/hubfs/Downloads/Leaflets/MTi-630.pdf,official
+xsens-mti680g,imu_ins,Xsens(Movella),MTi-680G,98.0,1.0,56.5,40.9,36.75,RTK GNSS/INS,,https://www.xsens.com/hubfs/Downloads/Leaflets/MTi-680G.pdf,official
+epson-mg366,imu_ins,Epson,M-G366PDG0,10.0,0.05,24,24,10,IMU,,https://www.epsondevice.com/sensing/en/pdf/m-g366pdg0_datasheet_e_rev1.2.pdf,official
+bw-imu500c,imu_ins,BWSensing,IMU500C,,,60,59,29,IMU,,https://www.bwsensing.com.cn/details_IMU500C-360.html,official
+bw-gi200,imu_ins,BWSensing,BW-GI200,,,39.6,43.1,10.8,Flight-controller INS module,,https://www.bwsensing.com.cn/product-9.html,official
+conti-ars408,radar,Continental,ARS408-21,320.0,6.6,138,31,91,77GHz mmWave radar,±60° (short range) / 250 m,https://hexagondownloads.blob.core.windows.net/public/AutonomouStuff/wp-content/uploads/2020/08/ARS-408-21-whitelabel.pdf,official
+conti-ars548,radar,Continental,ARS548 RDI,526.0,18.0,137,39,90,4D imaging mmWave,"±60° azimuth (typical value, unverified) / 301 m",https://www.nanoradar.com/Products_1/36.html,reseller
+ti-iwr6843aop,radar,TI,IWR6843AOPEVM,,,,,,60GHz mmWave evaluation board,120°×120°,https://www.ti.com/tool/IWR6843AOPEVM,official
+winsen-zce04b,gas_acoustic,Winsen,ZCE04B,50.0,0.5,41,41,21.6,4-in-1 gas module (CO/H2S/O2/CH4),,https://www.winsensor.com/product/817.html,official
+cubic-sf6-015,gas_acoustic,Cubic,SF6-015,,0.65,63.2,38.5,19.2,SF6 infrared (NDIR) module,,https://www.directindustry.com/prod/cubic-sensor-instrument-co-ltd/product-54752-2451845.html,reseller
+alphasense-pid-ah2,gas_acoustic,Alphasense,PID-AH2,8.0,0.1,,,,PID photoionization VOC sensor,,https://dorgean.com/Uploads/datasheet/Alphasense_PID-AH2_datasheet.pdf,official
+ionscience-minipid2,gas_acoustic,ION Science,MiniPID 2,40.0,0.1,,,,PID photoionization VOC sensor,,https://ionscience.com/wp-content/uploads/2021/02/Sensor-Product-guide.pdf,official
+crysound-cry8124,gas_acoustic,CRYSOUND,CRY8124,1400.0,,270,51,190,Handheld acoustic imager,,https://www.crysound.com/product/cry8124-advanced-acoustic-imaging-camera/,official
+fluke-sv600,gas_acoustic,Fluke,SV600,850.0,,170,65,170,Fixed acoustic imager,,https://www.flukeprocessinstruments.com/en-us/products/imaging-solutions/acoustic-imaging-solutions/sv600-fixed-acoustic-imager,official
+dji-zenmuse-v1,speaker_light_mic,DJI,Zenmuse V1,690.0,25.0,119,134,140,Loudspeaker,500 m,https://enterprise.dji.com/zenmuse-v1/specs,official
+dji-zenmuse-s1,speaker_light_mic,DJI,Zenmuse S1,760.0,68.0,120,150,130,Searchlight,15° (low beam) / 100 m,https://dronedj.com/2025/04/16/dji-drone-speaker-spotlight-price/,reseller
+seeed-respeaker-v2,speaker_light_mic,Seeed,ReSpeaker Mic Array v2.0,,0.9,,,18,4-mic array,,https://wiki.seeedstudio.com/ReSpeaker_Mic_Array_v2.0/,official
+gen-speaker-light,speaker_light_mic,Generic,Loudspeaker & light combo,650,30,110,90,70,"20 W loudspeaker + 10 W LED fill light, Ethernet control",reference spec,,official
+gen-alarm,speaker_light_mic,Generic,Audible & visual alarm,160,5,,,55,Red-blue strobe + 110 dB siren,reference spec,,official
+nv-orin-nano-4g,edge_compute,NVIDIA,Jetson Orin Nano 4GB module,,25.0,45.0,69.6,20.0,6-core Cortex-A78AE · 4GB,34 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://wiki.seeedstudio.com/reComputer_J4012_Flash_Jetpack/,official
+nv-orin-nano-8g,edge_compute,NVIDIA,Jetson Orin Nano 8GB module,,25.0,45.0,69.6,20.0,6-core Cortex-A78AE 1.7GHz(Super) · 8GB,67 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/,official
+nv-orin-nano-super-dk,edge_compute,NVIDIA,Jetson Orin Nano Super Developer Kit,,25.0,60,80,25,6-core Cortex-A78AE 1.7GHz · 8GB,67 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/ ; https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-new-usd249-ai-development-board-that-does-67-tops,official
+nv-orin-nx-8g,edge_compute,NVIDIA,Jetson Orin NX 8GB module,,40.0,45.0,69.6,20.0,6-core Cortex-A78AE (per MiiVii datasheet) · 8GB,117 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://developer.nvidia.com/blog/nvidia-jetson-orin-nano-developer-kit-gets-a-super-boost/ ; https://doc.miivii.com/Apex-Orin-NX-User-Manual-CH/wiki/Apex-Orin-NX-%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6.html,official
+nv-orin-nx-16g,edge_compute,NVIDIA,Jetson Orin NX 16GB module,,40.0,45.0,69.6,20.0,8-core Cortex-A78AE · 16GB,157 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://developer.nvidia.com/blog/nvidia-jetson-orin-nano-developer-kit-gets-a-super-boost/,official
+nv-agx-orin-32g,edge_compute,NVIDIA,Jetson AGX Orin 32GB module,,40.0,87.0,100.0,20.0,8-core Cortex-A78AE (AAEON spec) · 32GB,248 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://www.cnx-software.com/2024/04/18/aaeon-boxer-8645ai-jetson-agx-orin-embedded-ai-system-8-gmsl2-cameras/,official
+nv-agx-orin-64g,edge_compute,NVIDIA,Jetson AGX Orin 64GB module,,60.0,87.0,100.0,20.0,12-core Cortex-A78AE · 64GB,275 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://www.siliconhighwaydirect.com/product-p/900-13701-0050-000.htm,official
+nv-agx-orin-dk,edge_compute,NVIDIA,Jetson AGX Orin Developer Kit (64GB),,60.0,110.0,110.0,71.65,12-core Cortex-A78AE · 64GB,275 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/ ; https://www.hackster.io/news/nvidia-launches-275-tops-jetson-agx-orin-developer-s-kit-at-1-999-bbb5ff80e050,official
+nv-agx-orin-ind,edge_compute,NVIDIA,Jetson AGX Orin Industrial module,,75.0,87.0,100.0,20.0,12-core Cortex-A78AE · 64GB,241 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/,official
+nv-thor-t5000,edge_compute,NVIDIA,Jetson AGX Thor T5000 module,,130.0,87.0,100.0,20.0,14-core Neoverse-V3AE · 128GB,2070 TFLOPS FP4,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/,official
+nv-thor-t4000,edge_compute,NVIDIA,Jetson AGX Thor T4000 module,,70.0,60,80,25,12-core Neoverse-V3AE · 64GB,1200 TFLOPS FP4,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/,official
+nv-thor-dk,edge_compute,NVIDIA,Jetson AGX Thor Developer Kit,,130.0,112.4,243.19,56.88,14-core Neoverse-V3AE · 128GB,2070 TFLOPS FP4,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/ ; https://www.cnx-software.com/2025/08/19/3499-nvidia-jetson-agx-thor-developer-kit-2070-tops-jetson-t5000-som-for-robotics-and-edge-ai/,official
+nv-xavier-nx,edge_compute,NVIDIA,Jetson Xavier NX 8GB/16GB module (legacy),,20.0,45.0,69.6,20.0,6-core Carmel ARMv8.2 · 8/16GB,21 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-xavier-series/,official
+nv-agx-xavier,edge_compute,NVIDIA,Jetson AGX Xavier 32GB/64GB module (legacy),,40.0,87.0,100.0,20.0,8-core Carmel ARMv8.2 · 32/64GB,30 TOPS,https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-xavier-series/,official
+drobot-rdk-x3,edge_compute,D-Robotics,RDK X3 (Sunrise X3M),,15.0,56.0,85.0,20.0,4-core Cortex-A53 1.2GHz · 2/4GB,5 TOPS,https://www.dfrobot.com.cn/goods-4006.html ; https://www.waveshare.net/wiki/RDK-X3,official
+drobot-rdk-x5,edge_compute,D-Robotics,RDK X5 (Sunrise 5),,25.0,56.0,85.0,20.0,8-core Cortex-A55 1.5GHz · 4/8GB,10 TOPS,https://developer.d-robotics.cc/rdkx5 ; https://www.dfrobot.com.cn/goods-4160.html ; https://www.ithome.com/0/797/194.htm,official
+drobot-rdk-s100,edge_compute,D-Robotics,RDK S100,,20.0,60,80,25,6-core Cortex-A78AE 1.5GHz · 12GB,80 TOPS,https://developer.d-robotics.cc/rdk_doc/en/rdk_s/Quick_start/hardware_introduction/rdk_s100/ ; https://x.com/XRoboHub/status/1936093736070791666,official
+drobot-rdk-s100p,edge_compute,D-Robotics,RDK S100P,,20.0,120.0,121.0,51.0,6-core Cortex-A78AE 2.0GHz · 24GB,128 TOPS,https://developer.d-robotics.cc/rdk_doc/en/rdk_s/Quick_start/hardware_introduction/rdk_s100/ ; https://www.cnx-software.com/2026/08/31/d-robotics-rdk-s100p-a-128-tops-alternative-to-nvidia-jetson-orin-nx-16gb-with-cortex-a78ae-r52-cores/,official
+opi-5b,edge_compute,Orange Pi,Orange Pi 5B (RK3588S),52.0,20.0,62.0,100.0,20.0,4x A76 2.4GHz + 4x A55 1.8GHz · 4/8/16/32GB,6 TOPS,https://liliputing.com/orange-pi-5b-is-a-single-board-pc-with-rk3588s-wifi6-bt-5-0-and-an-emmc-storage-module/ ; http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5B.html,official
+opi-5plus,edge_compute,Orange Pi,Orange Pi 5 Plus (RK3588),,20.0,70.0,100.0,20.0,4x A76 2.4GHz + 4x A55 1.8GHz · 4/8/16/32GB,6 TOPS,https://www.notebookcheck.net/Orange-Pi-5-Plus-Rockchip-RK3588-SBC-debuts-from-US-89-with-dual-2-5-Gigabit-Ethernet-and-HDMI-2-1-connectivity.717236.0.html ; https://www.tomshardware.com/news/orange-pi-5-plus-rk3588,official
+firefly-roc-rk3588s-pc,edge_compute,Firefly,ROC-RK3588S-PC (RK3588S),,,60.0,90.0,20.0,8-core (4xA76+4xA55) 2.4GHz · 4/8/16GB (optional,6 TOPS,https://www.cnx-software.com/2022/04/19/roc-rk3588s-pc-first-rockchip-rk3588s-sbc-32gb-ram/ ; https://wiki.t-firefly.com/en/ROC-RK3588S-PC/started.html,official
+huawei-atlas-200i-dk-a2,edge_compute,Huawei,Atlas 200I DK A2 Developer Kit,330.0,24.0,120.0,135.0,44.0,4-core 1.0GHz · 4GB,8 TOPS,https://www.luckfox.cn/Atlas-200I-DK-A2 ; https://finance.sina.com.cn/tech/digi/2023-05-06/doc-imysvrzx9665105.shtml ; https://img.iceasy.com/product/product/files/202409/8a8a8a1a910b724a0191de8f9c1f1a26.pdf,official
+qcom-rb5,edge_compute,Qualcomm / Thundercomm,Robotics RB5 Developer Kit (QRB5165),,1.0,54.0,85.0,20.0,Kryo 585 octa-core (officially Kryo 858) up to 2.84GHz · 16GB,15 TOPS,https://www.thundercomm.com/product/qualcomm-robotics-rb5-development-kit/ ; https://www.cnx-software.com/2020/06/19/qualcomm-robotics-rb5-platform-targets-the-development-of-5g-and-ai-enabled-robots/,official
+qcom-rb3-gen2,edge_compute,Qualcomm / Thundercomm,RB3 Gen 2 Developer Kit (QCS6490),,,54.0,85.0,20.0,Kryo 670 octa-core · 6GB,12 TOPS,https://www.thundercomm.com/product/qualcomm-rb3-gen-2/ ; https://www.cnx-software.com/2024/04/15/qualcomm-rb3-gen-2-platform-qualcomm-qcs6490-ai-soc-robotics-iot-embedded-applications/,official
+intel-nuc13-pro-i7,edge_compute,ASUS),NUC 13 Pro NUC13ANHi7,1130.0,,112.0,117.0,54.0,"Core i7-1360P 12 cores/16 threads, up to 5.0GHz · up to",,https://arkpwa-stg.intel.com/content/www/us/en/ark/products/233099/intel-nuc-13-pro-kit-nuc13anhi7.html,official
+asus-nuc14-pro-u7,edge_compute,ASUS,NUC 14 Pro (Core Ultra 7 155H),600.0,,112.01,117.09,54.1,Core Ultra 7 155H 16 cores/22 threads · up to,,https://www.bestbuy.com/product/asus-nuc-14-pro-barebone-system-mini-pc-core-ultra-7-14th-gen-155h-intel-chip-96-gb-ddr5-sdram-white/JJGGLQJKW3 ; https://mitxpc.com/products/rnuc14rvhu70000ui,official
+neousys-nuvo-11531,edge_compute,Neousys,Nuvo-11531 (Core Ultra 200S),,,60,80,25,Intel Core Ultra 200S,36 TOPS,https://www.neousys-tech.com/en/product/product-lines/industrial-computers/nuvo-11531,official
+advantech-mic-711-on,edge_compute,Advantech,"MIC-711-ON (Orin Nano, fanless)",,,130.0,130.0,46.0,,,https://news.ca168.com/202309/127878.html,official
+advantech-mic-711-ox,edge_compute,Advantech,MIC-711-OX (Orin NX),,,60,80,25,,,https://news.ca168.com/202309/127878.html,official
+aaeon-boxer-8645ai,edge_compute,AAEON,"BOXER-8645AI (AGX Orin 32GB, 8x GMSL2)",5000.0,36.0,202.0,286.0,90.0,8-core Cortex-A78AE · 32GB,200 TOPS,https://www.cnx-software.com/2024/04/18/aaeon-boxer-8645ai-jetson-agx-orin-embedded-ai-system-8-gmsl2-cameras/ ; https://www.aaeon.com/en/product/detail/ai-edge-solutions-boxer-8645ai/specification,official
+rpi-5,edge_compute,Raspberry Pi,Raspberry Pi 5,,27.0,56.0,85.0,20.0,BCM2712 4-core Cortex-A76 2.4GHz · 1/2/4/8/16GB,8 TOPS,https://www.raspberrypi.com/products/raspberry-pi-5/,official
+hailo-8-m2,edge_compute,Hailo,Hailo-8 M.2 accelerator,,2.5,42.0,22.0,20.0,,26 TOPS,https://hailo.ai/products/ai-accelerators/hailo-8-m2-ai-acceleration-module/ ; https://www.waveshare.com/hailo-8.htm,official
+hailo-8l-m2,edge_compute,Hailo,Hailo-8L M.2 accelerator,,1.5,60,80,25,,13 TOPS,https://hailo.ai/products/ai-accelerators/hailo-8l-ai-accelerator-for-ai-light-applications/ ; https://www.cnx-software.com/2023/08/04/hailo-8l-13-tops-ai-accelerator-targets-entry-level-edge-devices/,official
+sophgo-se7,edge_compute,Sophgo,SE7 micro server (BM1684X),,30.0,60,80,25,,32 TOPS,https://aim.baidu.com/product/b33e2e06-b49f-49ae-8b66-587ca4a6ec31 ; https://soulteary.com/2024/07/29/sophgo-edge-ai-device-airbox-bm1684x-stable-diffusion-one-picture-per-second.html,official
+seeed-recomputer-j4012,edge_compute,Seeed,"reComputer J4012 (Orin NX 16GB, J401 carrier)",,19.0,120.0,130.0,58.5,,100 TOPS,https://www.seeedstudio.com/reComputer-J4012-p-5586.html ; https://wiki.seeedstudio.com/reComputer_J4012_Flash_Jetpack/,official
+seeed-recomputer-j30-j40,edge_compute,Seeed,reComputer J3010/J3011/J4011/J4012 series (J401 carrier),,19.0,120.0,130.0,58.5,,,https://wiki.seeedstudio.com/reComputer_J4012_Flash_Jetpack/,official
+auvidea-x230d,edge_compute,Auvidea,X230D carrier board (AGX Orin),,19.0,104.6,125.0,20.0,,,https://auvidea.eu/product/x230d-70416/ ; https://developer.ridgerun.com/wiki/index.php/NVIDIA_Jetson_Orin/Introduction/Carrier_Boards/Auvidea_X230D,official
+miivii-apex-orin-nx,edge_compute,MiiVii,APEX ORIN NX,1800.0,36.0,120.0,227.0,65.0,,70 TOPS,https://doc.miivii.com/Apex-Orin-NX-User-Manual-CH/wiki/Apex-Orin-NX-%E4%BA%A7%E5%93%81%E8%A7%84%E6%A0%BC%E4%B9%A6.html,official
+miivii-apex-ad10,edge_compute,MiiVii,APEX AD10 (AGX Orin),,,60,80,25,,200 TOPS,https://www.miivii.com/index.php?s=index%2Fcategory%2Findex&id=163,official
+quectel-rm520n-gl,comms_radio,Quectel,RM520N-GL 5G module,,,18,12,95,"3GPP R16, 5G NSA/SA · DL 2.4Gbps / UL 900Mbps",,https://www.quectel.com/product/5g-rm520n-gl/ ; https://www.waveshare.net/shop/RM520N-GL.htm,official
+quectel-rm500u-cn,comms_radio,Quectel,RM500U-CN 5G module (UNISOC platform),8.9,,18,12,95,"3GPP R15, NSA/SA · DL 2Gbps / UL 1Gbps",,https://www.quectel.com.cn/product/5g-rm500u-cn ; https://www.rfidworld.com.cn/product/2408_8CA141F0CFEC9B24.html,official
+huawei-mh5000-31,comms_radio,Huawei,MH5000-31 5G module (Balong 5000),,,18,12,95,"5G NSA/SA, 2G/3G/4G/5G multi-mode · DL 2Gbps / UL 230Mbps",,https://item.szlcsc.com/493628.html ; https://www.forlinx.com/product/119.html,official
+quectel-ec25,comms_radio,Quectel,EC25 series 4G Cat4 module,,,18,12,95,LTE Cat 4 · DL 150Mbps / UL 50Mbps,,https://www.quectel.com/product/lte-ec25-series/,official
+usr-g771,comms_radio,USR,USR-G771 4G Cat-1 DTU,110.0,36.0,18,12,80,LTE Cat-1 (China Mobile/Unicom 2G fallback),,https://www.usr.cn/Down/USR-G771-spec-V1.0.02.pdf ; https://www.usr.cn/Product/296.html,official
+intel-ax210,comms_radio,Intel,Wi-Fi 6E AX210 card,,,18,12,95,2.4Gbps,,https://www.intel.com/content/www/us/en/products/sku/204836/intel-wifi-6e-ax210-gig/specifications.html ; https://www.intel.com/content/www/us/en/products/sku/239215/intel-wifi-6e-ax210-gig-industrial/specifications.html,official
+doodle-mini,comms_radio,Doodle Labs,Mesh Rider Mini,34.0,5.0,18,12,140,80Mbps@20MHz,,https://doodlelabs.com/products/,official
+doodle-nano2,comms_radio,Doodle Labs,Mesh Rider Nano²,41.0,,18,12,140,,,https://doodlelabs.com/products/,official
+doodle-oem,comms_radio,Doodle Labs,Mesh Rider OEM,102.0,,18,12,140,,,https://doodlelabs.com/products/,official
+doodle-wearable,comms_radio,Doodle Labs,Mesh Rider Wearable (body-worn),311.0,,18,12,140,,,https://doodlelabs.com/products/,official
+silvus-sc4200e,comms_radio,Silvus,StreamCaster 4200E (SC4200E),425.0,24.0,18,12,140,Up to 100Mbps (adaptive),,https://silvustechnologies.com/wp-content/uploads/2019/04/StreamCaster-4200-Enhanced-Datasheet.pdf,official
+silvus-sc4200-oem,comms_radio,Silvus,StreamCaster 4200 OEM module,116.0,,18,12,140,Up to 100Mbps,,https://silvustechnologies.com/wp-content/uploads/2019/04/StreamCaster-4200-Enhanced-Datasheet.pdf,official
+silvus-sl5200,comms_radio,Silvus,StreamCaster LITE 5200 (SL5200),,,18,12,140,Up to 100Mbps,,https://silvustechnologies.com/products/streamcaster-lite-5200/,official
+hytera-emesh580p,comms_radio,Hytera,E-mesh580P,,,18,12,140,"100Mbps single hop, >8Mbps after 16 hops · LOS 100km",,https://tech.china.com/article/20230512/052023_1273412.html,official
+datang-mesh3000,comms_radio,Datang Telecom,Mesh3000 mesh radio (handheld/backpack/vehicle),1500.0,,18,12,140,Domestic LTE-chip mesh network,,https://www.datang.com/Mesh3000.html,official
+anymesh-sdr-a3-1w,comms_radio,AnyMESH,ANYMESH-SDR-A3-1W airborne mesh module,,,18,12,140,Peak 66Mbps@10MHz / 125Mbps@20MHz,,https://airwlan.com/products/ANYMESH03/2020/0312/ANYMESH-SDR-A3-1W.html,official
+csw-mesh-module,comms_radio,Yunwang IoT,Mesh networking module (5.8G),14.5,,18,12,140,Up to 100Mbps · 16km (30km directional),,https://www.csw-tech.cn/meshzizuwang/28.html,official
+meshcom-msdr20,comms_radio,MESHCOM,MSDR20 SDR mesh module,,,18,12,140,Up to 160Mbps,,https://meshcom.cn/product/MSDR20/,official
+dji-o4-air-unit-pro,comms_radio,DJI,O4 Air Unit Pro video link,32.0,,18,12,70,Up to 130Mbps · 15km(FCC) / 8km(CE),,https://www.dji.com/o4-air-unit/specs ; https://oscarliang.com/dji-o4-air-unit-pro/,official
+dji-o4-air-unit,comms_radio,DJI,O4 Air Unit video link (Lite),8.2,,18,12,70,Up to 100Mbps · 10km(FCC) / 6km(CE),,https://www.dji.com/o4-air-unit/specs,official
+siyi-hm30,comms_radio,SIYI,HM30 video/data/control link,74.0,,18,12,140,30km (directional antenna),,https://siyi.biz/364.html,official
+cubepilot-herelink,comms_radio,CubePilot,Herelink 1.1,95.0,,18,12,140,20km,,https://irlock.com/products/herelink-hd-video-transmission-system-_,official
+rfd900x,comms_radio,RFDesign,RFD900x telemetry radio,14.5,,18,12,80,500kbps · 40km+,,https://www.readymaderc.com/products/details/rfdesign-rfd-900x-modem-us-fcc,official
+ebyte-e22-400t30d,comms_radio,Ebyte,E22-400T30D LoRa module (SX1268),11.0,3.0,18,12,80,8km,,https://www.cdebyte.com/products/E22-400T30D,official
+qinnav-rd02,comms_radio,QinNav,RD02 BDS-3 short message module,,,18,12,80,"BDS2/BDS3 short message, up to 1000 characters per message (BDS-3 regional)",,https://www.qinnav.com/product/bdsmodule/RD02.html,official
+tiantong-htdm1612,comms_radio,Tiantong Zhongxing,HTDM1612 Tiantong satellite data module,,3.5,18,12,80,1.2-9.6kbps,,https://nstarlink.com/product-detail/bpRzeDkN,official
+rockblock-9603,comms_radio,Ground Control,RockBLOCK 9603 Iridium SBD,36.0,,18,12,80,Iridium SBD short messaging,,https://www.groundcontrol.com/product/rockblock-9603-compact-plug-and-play-satellite-transmitter,official
+starlink-mini,comms_radio,SpaceX Starlink,Starlink Mini,1100.0,25.0,298,259,38,,,https://mea.redingtongroup.com/starlink/wp-content/uploads/2024/09/specification_sheet_mini-1.pdf ; https://www.notebookcheck.net/SpaceX-prices-Starlink-Mini-dish-at-599-as-it-makes-weight-specs-official-and-offers-Mini-Roam-plan-for-30-month.850231.0.html,official
+vicor-dcm3623-75h13,power_network,Vicor,DCM3623x75H13C2 isolated regulated DC-DC,,,22.8,38.72,7.21,Input 36-75V · Output 12V (7.2-13.2V adjustable) · 320W(26.67A),320 W output,https://www.vicorpower.com/documents/datasheets/DCM3623x75H13C2yzz_ds.pdf,official
+mornsun-urb2412ld-30wr3,power_network,MORNSUN,URB2412LD-30WR3 wide-input isolated DC-DC,,,25.4,50.8,11.8,Input 9-36V · Output 12V/2.5A · 30W,30 W output,https://www.mornsun.cn/public/uploads/pdf/URB_LD-30WR3.pdf ; https://item.szlcsc.com/1060503.html,official
+meanwell-rsd-60,power_network,Mean Well,RSD-60 railway-grade DC-DC (24V 2.5A),,,60,80,25,Output 24V/2.5A · 60W,60 W output,https://www.maidianyuan.com/index.php/gallery-623.html,official
+unitree-go2-bt2-06,power_network,Unitree,Go2 extended battery BT2-06,,,60,80,25,28.8V · 15Ah / 432Wh,,https://static.generation-robots.com/media/Go2-Battery-and-Charger.pdf,official
+tattu-6s-22000,power_network,Tattu,6S 22000mAh 25C LiPo (22.2V),2544.0,,91.0,198.0,66.0,22.2V(6S) · 22Ah / 488.4Wh,,https://www.getfpv.com/tattu-22000mah-6s-25c-lipo-battery-5341.html,official
+tattu-12s-22000,power_network,Tattu,12S 22000mAh 25C smart LiPo (44.4V),6300.0,,174.0,117.0,238.0,44.4V(12S) · 22Ah / 976.8Wh,,https://genstattu.com/tattu-pro-22000mah-44-4v-25c-12s-1p-lipo-smart-battery-pack-with-as150u-f-plug/,official
+bicker-upsi-2406,power_network,Bicker,UPSI-2406 24V DC-UPS (open frame),90.0,,105.0,70.5,17.0,Input 22.5-30V · Output 24V/6A · 144W,144 W output,https://www.bicker-electronics.com/files/downloads/datenblatt/upsi-2406_e.pdf ; https://www.directindustry.com/prod/bicker-elektronik-gmbh/product-232966-2414630.html,official
+minibox-openups,power_network,mini-box,OpenUPS smart DC-UPS,,,60,80,25,Input 6-30V · Output 5-24V programmable (default 12V),,https://www.mini-box.com/OpenUPS,official
+neousys-supercap-ups,power_network,Neousys,Supercapacitor UPS,,,60,80,25,,,https://www.neousys-tech.com/en/core-technologies/supercap-ups-industrial-power-backup-solution,official
+utepo-upi7301,power_network,UTEPO,UPI7301 PoE injector (802.3bt),,,60,80,25,Input 12-57V,90 W output,https://www.utepo.net/product/detail/Industrial-Single-Port-Multi-Gigabit-802-3bt-PoE-Injector-90W-UPI7301-PSD-W.html,official
+moxa-tn-g6500,power_network,Moxa,TN-G6500 vehicle/rail M12 gigabit switch,1750.0,16.1,97.0,159.0,100.0,"12x GbE: 4x M12 A-code + 8x M12 X-code PoE (30W per port, 96W total)",,https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/poe-switches/tn-g6500-series,official
+moxa-eds-405a-ptp,power_network,Moxa,EDS-405A-PTP managed switch (hardware IEEE1588v2),820.0,0.2,135.0,53.6,105.0,5x 10/100BaseT(X) · hardware IEEE1588 PTPv2,,https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/layer-2-managed-switches/eds-405a-series/eds-405a-ptp,official
+teltonika-tsw110,power_network,Teltonika,TSW110 5-port unmanaged gigabit switch,,30.0,60,80,25,5x GbE,,https://teltonika-networks.com/products/switches/tsw110,official
+timebeat-timecard-mini-3,power_network,Timebeat,Open Timecard Mini 3.0 (PTP/NTP grandmaster card),,,60,80,25,"Time pulse up to 2.5ns, jitter ±4ns",,https://store.timebeat.app/products/open-timecard-mini-3-0 ; https://www.hackster.io/news/timebeat-s-timecard-mini-turns-a-raspberry-pi-cm4-into-a-pci-express-high-precision-time-source-18b89b1732bc,official
+protempis-gm200,power_network,Trimble),Thunderbolt PTP GM200 grandmaster clock,3000.0,5.0,200.0,208.0,44.0,GPS-locked <15ns; holdover ±1.5µs/4h,,https://www.hypertech.co.il/wp-content/uploads/2015/12/Thunderbolt_PTP_GM200_datasheet_v2.pdf,official
+feiling-tsync,power_network,Feiling,TSync sync board (PTP master/slave + GNSS timing),,,60,80,25,PTP master/slave,,unknown,official
+peak-pcan-usb-fd,power_network,PEAK-System,PCAN-USB FD,,,60,80,25,Data up to 12Mbit/s,,https://www.peak-system.com/PCAN-USB-FD.365.0.html?&L=1,official
+zlg-usbcan-2e-u,power_network,ZLG,USBCAN-2E-U,,,60,80,25,5k-1Mbps,,https://www.zlg.cn/can/can/product/id/22.html,official
+zlg-usbcan-ii-plus,power_network,ZLG,USBCAN-II+,,,60,80,25,5k-1Mbps,,https://www.zlg.cn/can/can/product/id/22.html,official
+kvaser-usbcan-pro-2xhs-v2,power_network,Kvaser,USBcan Pro 2xHS v2,158.0,,50.0,170.0,20.0,Up to 8Mbit/s,,https://www.kvaser.com/product/kvaser-usbcan-pro-2xhs-v2/,official
+arm-unitree-z1-air,robot_arm,Unitree,Z1 Air,4300,,132,436,198,6-axis arm · reach 740 mm · rated payload 2 kg,6-axis / reach 740 mm / payload 2 kg,https://www.unitree.com/z1,official
+arm-unitree-z1-pro,robot_arm,Unitree,Z1 Pro,4500,,132,436,198,6-axis arm · reach 740 mm · rated payload 3 kg,6-axis / reach 740 mm / payload 3 kg,https://www.unitree.com/z1,official
+arm-unitree-d1,robot_arm,Unitree,D1 servo arm,2370,60,134,401,242,6-axis arm · reach 550 mm · rated payload 0.5 kg,6-axis / reach 550 mm / payload 0.5 kg,https://www.unitree.com/D1-T,official
+arm-agilex-piper,robot_arm,AgileX,PiPER,4200,,145,510,248,6-axis arm · reach 626 mm · rated payload 1.5 kg,6-axis / reach 626 mm / payload 1.5 kg,https://www.agilex.ai/page/690abe7b5e78cfa260412c92?mi=1,official
+arm-agilex-piper-x,robot_arm,AgileX,PiPER X,4500,,97,412,297,6-axis arm · reach 669 mm · rated payload 1.5 kg,6-axis / reach 669 mm / payload 1.5 kg,https://www.agilex.ai/product/6979dfa6866efa631c991cff?mi=1,official
+arm-agilex-nero,robot_arm,AgileX,NERO,4800,60,93,596,263,7-axis arm · reach 580 mm · rated payload 3 kg,7-axis / reach 580 mm / payload 3 kg,https://www.agilex.ai/product/69314a20866efa631c9812fa?mi=1,official
+arm-galaxea-a1x,robot_arm,Galaxea,A1X,4200,,108,471,302,6-axis arm · reach 600 mm · rated payload 3 kg,6-axis / reach 600 mm / payload 3 kg,https://www.galaxea-ai.com/products/A1-X,official
+arm-galaxea-a1,robot_arm,Galaxea,A1,6000,,128,546,278,6-axis arm · reach 700 mm · rated payload 2 kg,6-axis / reach 700 mm / payload 2 kg,https://www.galaxea-ai.com/products/A1,official
+arm-realman-rm65-b,robot_arm,Realman,RM65-B,7200,150,123,514,282,6-axis arm · reach 610 mm · rated payload 5 kg,6-axis / reach 610 mm / payload 5 kg,https://develop.realman-robotics.com/en/robot/robotParameter/RM65OntologyParameters/,official
+arm-realman-rm75-b,robot_arm,Realman,RM75-B,7800,200,123,514,282,7-axis arm · reach 610 mm · rated payload 5 kg,7-axis / reach 610 mm / payload 5 kg,https://develop.realman-robotics.com/en/robot/robotParameter/RM75OntologyParameters/,official
+arm-realman-eco65,robot_arm,Realman,ECO65-B,7800,150,194,416,303,6-axis arm · reach 610 mm · rated payload 5 kg,6-axis / reach 610 mm / payload 5 kg,https://develop.realman-robotics.com/en/robot/robotParameter/ECO65OntologyParameters/,official
+arm-kinova-gen3-6dof,robot_arm,Kinova,Gen3 6DoF,7200,,113,501,363,6-axis arm · reach 891 mm · rated payload 2 kg,6-axis / reach 891 mm / payload 2 kg,https://www.kinovarobotics.com/uploads/User-Guide-Gen3-R07.pdf,official
+arm-kinova-gen3-7dof,robot_arm,Kinova,Gen3 7DoF,8200,,116,513,331,7-axis arm · reach 902 mm · rated payload 2 kg,7-axis / reach 902 mm / payload 2 kg,https://www.kinovarobotics.com/uploads/User-Guide-Gen3-R07.pdf,official
+arm-kinova-gen3-lite,robot_arm,Kinova,Gen3 lite,5400,20,185,532,387,6-axis arm · reach 760 mm · rated payload 0.5 kg,6-axis / reach 760 mm / payload 0.5 kg,https://docs.clearpathrobotics.com/assets/files/clearpath_robotics_022586-TDS1-d2396f9ed7dab56f668237162a3e5f4d.pdf,official
+arm-boston-dynamics-spot-arm,robot_arm,Boston Dynamics,Spot Arm,8000,,211,669,264,6-axis arm · reach 984 mm · rated payload 5 kg,6-axis / reach 984 mm / payload 5 kg,https://bostondynamics.com/wp-content/uploads/2020/10/spot-arm.pdf,official
+arm-ufactory-lite-6,robot_arm,UFACTORY,Lite 6,8000,150,203,210,484,6-axis arm · reach 440 mm · rated payload 0.6 kg,6-axis / reach 440 mm / payload 0.6 kg,http://www.ufactory.cc/product-page/ufactory-lite-6/,official
